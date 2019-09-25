@@ -1,0 +1,3 @@
+this files is made in terminal.
+THis file is new & ready to upload on git
+
